@@ -11,7 +11,7 @@ id
 ***Step-2: Follow the command in order to setup RASP***
 
 ```
-sudo apt update ; apt-get upgrade ; apt-get dist-upgrade
+sudo apt update ; apt-get upgrade ; apt-get dist-upgrade ; sudo apt install leafpad 
 
 ```
 ***UART Service Enable***
