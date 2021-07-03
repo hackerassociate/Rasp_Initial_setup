@@ -8,7 +8,7 @@ echo -e "\nChecking the User\n"
 
 sudo id ; echo -e "\n"
 
-sudo apt update ; apt-get upgrade ; apt-get dist-upgrade ; sudo apt install leafpad 
+sudo apt update ; apt-get upgrade ; apt-get dist-upgrade ; sudo apt install leafpad ; sudo apt install chromium-browser ; sudo apt install chromium ; 
 
 echo -e "\n" ; 
 
