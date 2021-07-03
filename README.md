@@ -1,4 +1,4 @@
-####  Rasp_Initial_setup
+####  Rasp_Initial_setup by Harshad Shah
 After Booting up Raspberry PI, we need to install some packages, in order to work with Raspberry PI.
 
 ***Step-1: Make sure you are logeed in as ROOT. Verify user id using following command***
