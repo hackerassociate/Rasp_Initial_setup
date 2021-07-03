@@ -35,6 +35,13 @@ sudo apt-get install gparted
 
 ```
 
+***START SSH Service***
+
+```
+service ssh restart ; service ssh status 
+
+```
+
 
 
 ```
