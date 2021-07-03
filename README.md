@@ -42,6 +42,12 @@ service ssh restart ; service ssh status
 
 ```
 
+***Enable SSH Service Permanentely***
+
+```
+systemctl enable ssh 
+
+```
 
 
 ```
