@@ -11,7 +11,7 @@ id
 ***Step-2: Follow the command in order to setup RASP***
 
 ```
-sudo apt update ; apt-get upgrade ; apt-get dist-upgrade ; sudo apt install leafpad 
+sudo apt update ; apt-get upgrade ; apt-get dist-upgrade ; sudo apt install leafpad ; sudo apt install chromium-browser ; sudo apt install chromium ; 
 
 ```
 ***UART Service Enable***
